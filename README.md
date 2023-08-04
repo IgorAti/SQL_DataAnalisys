@@ -4,7 +4,7 @@
 Curso Intensivo Hashtag Treinamentos 
 
 ## Sistema utilizado:
-&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+&nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
           
 ## Linguagem:
 <div style="display: inline">
